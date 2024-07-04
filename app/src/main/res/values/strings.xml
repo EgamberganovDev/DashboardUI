@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Material Component</string>
+    <string name="test">John Doe</string>
+    <string name="imageview">profileImage</string>
+    <string name="my_profile">My Profile</string>
+    <string name="my_documents">My Documents</string>
+    <string name="statistics">Statistics</string>
+    <string name="message_box">Message Box</string>
+    <string name="user_control">User Control</string>
+</resources>
