@@ -19,7 +19,7 @@ DashboardUI is an Android application for managing and visualizing data through 
 
 ## Installation
 
-1. Clone the repository: https://github.com/Dev-Bobo/DashboardUI.git
+1. Clone the repository: https://github.com/EgamberganovDev/DashboardUI.git
 
 2. Open the project in Android Studio.
 3. Build and run the project on an Android device or emulator.
