@@ -11,11 +11,8 @@ DashboardUI is an Android application for managing and visualizing data through 
 
 ## Technologies Used
 
-- **Language**: XML/Kotlin
-
-## Screenshots
-
-- Insert screenshots of your application here (optional).
+- **Language**: Kotlin
+- **Design**: XML
 
 ## Installation
 
